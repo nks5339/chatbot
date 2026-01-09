@@ -1,4 +1,4 @@
-# Sarthi AI - Rajasthan Procurement Assistant
+# Procurement Assistant
 
 An AI-powered chatbot for the Rajasthan Transparency in Public Procurement Act, 2012, built with open-source LLMs and advanced RAG techniques.
 
